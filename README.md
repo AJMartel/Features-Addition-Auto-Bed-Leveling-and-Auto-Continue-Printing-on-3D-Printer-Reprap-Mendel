@@ -1,0 +1,2 @@
+# Features-Addition-Auto-Bed-Leveling-and-Auto-Continue-Printing-on-3D-Printer-Reprap-Mendel
+This repository contain my undergraduate thesis with some codes that i used to run the features. The code meant to be run on an Raspberry Pi 3 Model B 1GB BCM2837 Quad Core 1,2GHz RS Online Original to allow an 3D Printer Reprap Mendel to continue the printing process of an object after got sudden paused caused by sudden electricty supply cut off
